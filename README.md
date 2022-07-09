@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jiyu
-- 👀 I’m interested in Genshi, Web Server
+- 👀 I’m interested in Genshi, Overwatch, COD, APEX
 - 🌱 I’m currently learning golang
 - 📫 email: longwangdetanxi@outlook.com
 
